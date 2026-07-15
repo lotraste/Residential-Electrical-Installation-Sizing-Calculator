@@ -331,9 +331,9 @@ Factor de poténcia de la instalación: {self.cos_phi}
             num = 13
 
         if self.material == "cu":
-            s = self.corriente_admisible[self.material][num][1.5]
+            s = 1.5
         if self.material == "al":
-            s = self.corriente_admisible[self.material][num][2.5]
+            s = 2.5
 
         for sec in self.corriente_admisible[self.material][num]:
             if self.corriente_admisible[self.material][num][sec] <= i_adm:
