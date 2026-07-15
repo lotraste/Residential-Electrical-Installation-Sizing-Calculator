@@ -1,4 +1,4 @@
-# RESIDENTIAL-ELECTRICAL-CONDUCTOR-SIZE-CALCULATOR
+# Residential Electrical Installation Sizing Calculator
 Python program created for use by users interested in the regulatory sizing of electrical conductors (Phase/Neutral/Earth) in Spain. All calculations are based on and verified according to the Spanish Low Voltage Electrotechnical Regulation (REBT).
 
 The program includes the option to calculate conductor sizing according to different installation types, materials, insulation types, power supply requirements, among other parameters.
